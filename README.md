@@ -5,4 +5,5 @@
 
 ##### git clone https://github.com/arjunbchennithala/Serial
 ##### cd Serial
-##### ./RunExample 
+##### chmod +x RunExample.sh
+##### ./RunExample.sh
